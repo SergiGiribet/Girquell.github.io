@@ -1,1 +1,0 @@
-# Girquell.github.io
