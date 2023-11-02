@@ -14,7 +14,13 @@
 <h2 align="center">Sobre Mí</h2>
 
 <!-- afegir reedme palete>
-
+- 🔭 I’m currently working on [eduQuack](https://github.com/DuckHats/eduQuack)
+- 👯 I’m looking to collaborate on [DuckHats](https://Duckhats.github.io)
+- 🤝 I’m looking for help with **Game Design**
+- 🌱 I’m currently learning **cibersecurity**
+- 💬 Ask me about **nothing**
+- 📫 How to reach me **@Girquell1**
+- 👨‍💻 All of my projects are available at **Sergigiribet.github.io**
 ---
 
 <!-- Sección de Proyectos -->
