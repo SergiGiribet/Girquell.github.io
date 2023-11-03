@@ -2,7 +2,7 @@
 <!-- Título y Descripción -->
   <img src="https://github.com/sergigiribet.png" width="100" alt="Logo"/><br/>
   Hi 👋, I'm <a href="https://github.com/sergigiribet">Girquell</a>
-  <h3 align="center">CAFE</h3>
+<!--   <h3 align="center">CAFÉ</h3> -->
 </p>
 
 <p align="center">
